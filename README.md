@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I'm a Full Stack Developer from Brazil.
-  - I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - On my free time I really enjoy exploring ML and DS concepts as well as unique problem-solving thought proccesses for different goals on this field.
+Hi, I'm a Full Stack Developer 👨‍💻 from Brazil 🇧🇷.
+  - 📈 I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - ⚡ On my free time I really enjoy exploring ML and DS concepts as well as unique problem-solving thought proccesses for different goals on this field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-cavalcanti) 
