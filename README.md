@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a Software Engineer and am currently working on a investiment funds management company as a full stack developer.<br>🌱 I’m currently learning about machine learning and data science applications using Scikit-Learn, Keras and TensorFlow.
-
+Hi, I'm a Full Stack Developer from Brazil.
+  - I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - On my free time I really enjoy exploring ML and DS concepts as well as unique problem-solving thought proccesses for different goals on this field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-cavalcanti) 
