@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, my name is Paulo and I'm a Full Stack Developer 👨‍💻 from Brazil 🇧🇷.
   - 📈 Currently I'm working as a Software Engineer and contributing to frontend and backend for building distributed web applications in Flask.
   - ⚡ On my free time I really enjoy exploring ML and DS concepts as well as unique problem-solving thought proccesses for different objectives on this area of knowledge.
